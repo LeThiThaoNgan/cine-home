@@ -1,0 +1,22 @@
+.slide-container{
+  background-color: black;
+  height: 60vh;
+  width: 100vw;
+}
+
+.slide-wrapper{
+  height: 60vh;
+  width: 60%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.slide-container
+.each-slide > div {
+    height: 60vh;
+    width: 100%;
+    display: flex;
+    background-size: cover;
+  }
+

@@ -1,0 +1,28 @@
+.Dra-container{
+    background-color: black;
+    height: 55vh;
+    width: 100vw;
+    display:flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    overflow: hidden;
+}
+
+.Dra-wrapper{
+    height: 55vh;
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2{
+    color: #fff;
+    font-weight: lighter;
+    padding-top: 20px;
+}
+
+.media{
+    height: 150px;
+}

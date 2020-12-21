@@ -1,0 +1,14 @@
+.footer-container{
+    background: black;
+    color: white;
+    height: 70px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-wrapper{
+    display: flex;
+    flex-direction: column;
+}
